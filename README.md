@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Tami3 👋
+##
+Backend Developer based in Ramallah, Palestine Territory.
+
+
+:technologist: Daily work activities: .py, .json, .sql, .slack .aws .etl \
+💬 Ping me about: web design, mentorship, Football :blue_heart: \
+:mailbox_closed: Reach me: [LinkedIn](https://www.linkedin.com/in/mtamie) or mabutame@gmail.com
+
 
 <!--
 **mtami/mtami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
