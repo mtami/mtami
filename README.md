@@ -1,6 +1,6 @@
 ### Hi, I'm Tami3 👋
 ##
-Backend Developer based in Ramallah, Palestine Territory.
+Backend Developer [@Harri](https://github.com/HarriLLC) based in Ramallah, Palestine Territory.
 
 
 :technologist: Daily work activities: .py, .json, .sql, .slack .aws .etl \
