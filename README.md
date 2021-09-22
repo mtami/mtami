@@ -4,7 +4,7 @@ Backend Developer [@Harri](https://github.com/HarriLLC) based in Ramallah, Pales
 
 
 :technologist: Daily work activities: .py, .json, .sql, .slack .aws .etl \
-💬 Ping me about: web design, mentorship, Football :blue_heart: \
+💬 Ping me about: Web Design, Cloud, Data LakeHouse Solutions, ETL Pipeline, Football :blue_heart: \
 :mailbox_closed: Reach me: [LinkedIn](https://www.linkedin.com/in/mtamie) or mabutame@gmail.com
 
 
