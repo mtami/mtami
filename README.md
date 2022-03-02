@@ -1,9 +1,9 @@
-### Hi, I'm Tami3 👋
+### Hi, I'm Tami 👋
 ##
-Backend Developer [@Harri](https://github.com/HarriLLC) based in Ramallah, Palestine Territory.
+Data Engineer & ML [@AUI](https://aui.io/) based in Ramallah, Palestine Territory.
 
 
-:technologist: Daily work activities: .py, .json, .sql, .slack .aws .etl \
+:technologist: Daily work activities: .py, .json, .yaml, .sql, .slack .aws .etl, .k8s, .spark \
 💬 Ping me about: Web Design, Cloud, Data LakeHouse Solutions, ETL Pipeline, Football :blue_heart: \
 :mailbox_closed: Reach me: [LinkedIn](https://www.linkedin.com/in/mtamie) or mabutame@gmail.com
 
