@@ -1,6 +1,6 @@
 ### Hi, I'm Tami 👋
 ##
-Data Engineer & ML [@AUI](https://aui.io/) based in Ramallah, Palestine Territory.
+Senior Software Engineer [@Apple]([https://aui.io/](https://jobs.apple.com/en-il/search?location=israel-ISR)) based in Ramallah, Palestine Territory.
 
 
 :technologist: Daily work activities: .py, .json, .yaml, .sql, .slack .aws .etl, .k8s, .spark \
