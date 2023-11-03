@@ -1,7 +1,6 @@
 ### Hi, I'm Tami 👋
 ##
-Senior Software Engineer [@Apple]([https://aui.io/](https://jobs.apple.com/en-il/search?location=israel-ISR)) based in Ramallah, Palestine Territory.
-
+Senior Software Engineer.
 
 :technologist: Daily work activities: .py, .json, .yaml, .sql, .slack .aws .etl, .k8s, .spark \
 💬 Ping me about: Web Design, Cloud, Data LakeHouse Solutions, ETL Pipeline, Football :blue_heart: \
